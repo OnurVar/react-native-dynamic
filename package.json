@@ -27,7 +27,7 @@
 		"singleQuote": true,
 		"useTabs": true
 	},
-	"devDependencies": {
+	"peerDependencies": {
 		"@babel/core": "^7.10.3",
 		"@babel/runtime": "^7.10.3",
 		"@types/react-native": "^0.62.13",
